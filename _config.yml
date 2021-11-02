@@ -1,13 +1,13 @@
-name: "Mikail Khona's Blog"
+name: "Rylan Schaeffer's Blog"
 author:
-  name: "Mikail Khona"
-  email: "Mikailkhona@gmail.com"
-  twitter: "KhonaMikail"
+  name: "Rylan Schaeffer"
+  email: "rylanschaeffer@gmail.com"
+  twitter: "RylanSchaeffer"
 gems:
   - jekyll-feed
 
-title: Mikail Khona
-
+title: Rylan Schaeffer
+description: "'We do it because we are compelled.'"
 logo: index/profile_pic.jpg
 show_downloads: false
 google_analytics: UA-94033137-1
@@ -27,3 +27,4 @@ collections:
     output: true
   kernel_papers_drafts:
     output: false
+
