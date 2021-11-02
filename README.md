@@ -15,3 +15,6 @@ Reverse-engineering recurrent neural network solutions to a hierarchical inferen
 https://papers.nips.cc/paper/2020/hash/30f0641c041f03d94e95a76b9d8bd58f-Abstract.html
 
 ## Ongoing work
+
+### Resume
+https://github.com/mikailkhona/mikailkhona.github.io/blob/main/resume.pdf
