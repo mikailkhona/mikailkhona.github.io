@@ -5,7 +5,6 @@ author:
   twitter: "KhonaMikail"
 gems:
   - jekyll-feed
-
 title: "Mikail Khona"
 description: "'We do it because we are compelled.'"
 logo: index/profile_pic.jpg
