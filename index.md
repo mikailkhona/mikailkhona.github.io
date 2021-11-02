@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Mikail Khona</h1>
-<p># Mikail Khona
+# Mikail Khona
 Physics PhD student, MIT
 
 I do research in computational and theoretical systems neuroscience. I am primarily advised by Ila Fiete (fietelab.mit.edu)
