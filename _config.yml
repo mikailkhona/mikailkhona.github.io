@@ -1,1 +1,29 @@
-theme: jekyll-theme-slate
+name: "Mikail Khona's Blog"
+author:
+  name: "Mikail Khona"
+  email: "Mikailkhona@gmail.com"
+  twitter: "KhonaMikail"
+gems:
+  - jekyll-feed
+
+title: Mikail Khona
+
+logo: index/profile_pic.jpg
+show_downloads: false
+google_analytics: UA-94033137-1
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+collections_dir: collections
+collections:
+  blog_posts:
+    output: true
+  blog_drafts:
+    output: true
+  own_research:
+    output: true
+  kernel_papers:
+    output: true
+  kernel_papers_drafts:
+    output: false
