@@ -3,7 +3,8 @@ Physics PhD student, MIT
 
 Hi, welcome to my webpage!
 
-I do research in computational and theoretical systems neuroscience. I am primarily advised by Ila Fiete (fietelab.mit.edu)
+I do research in computational and theoretical systems neuroscience. I am primarily advised by Ila Fiete (fietelab.mit.edu).
+
 You can have a look at my research and publications using the links on the right.
 
 You can reach me at: mikail@mit.edu
