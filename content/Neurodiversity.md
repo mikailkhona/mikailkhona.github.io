@@ -1,5 +1,4 @@
 ## Neurodiversity
-What is neurodiversity?
 
 <a href = 'https://autisticuk.org/neurodiversity/'> What is neurodiversity? </a>
 
