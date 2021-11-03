@@ -14,6 +14,9 @@ You can reach me at: mikail@mit.edu
        <a href='https://twitter.com/KhonaMikail'>@KhonaMikail </a>
  </div>
  
+ 
+ 
+ 
  <a href='https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage'>Neurodiversity in the workplace</a>
 
 
