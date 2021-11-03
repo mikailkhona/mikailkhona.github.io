@@ -7,7 +7,7 @@ gems:
   - jekyll-feed
 title: "Mikail Khona"
 description: ""
-logo: content/profilepic.png
+logo: profilepic.png
 show_downloads: false
 google_analytics: UA-94033137-1
 theme: jekyll-theme-minimal
