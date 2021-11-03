@@ -9,6 +9,8 @@ You can have a look at my research and publications using the links on the left.
 
 You can reach me at: mikail@mit.edu
 
+[![Twitter URL](https://twitter.com/KhonaMikail)](https://twitter.com/KhonaMikail)
+
 
 
 
