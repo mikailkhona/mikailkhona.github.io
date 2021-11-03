@@ -13,6 +13,8 @@ You can reach me at: mikail@mit.edu
       <img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/twitter.png?raw=true"            width="20" height="20" alt="Sublime's custom image">
        <a href='https://twitter.com/KhonaMikail'>@KhonaMikail </a>
  </div>
+ 
+ <a href='https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage'>Neurodiversity in the workplace</a>
 
 
 
