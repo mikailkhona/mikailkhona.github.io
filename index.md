@@ -11,7 +11,7 @@ You can reach me at: mikail@mit.edu
 
 
 
-[![](https://twitter.com/KhonaMikail)](<img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/twitter.png?raw=true" width="30" height="30" alt="Sublime's custom image"> )
+[![<img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/twitter.png?raw=true" width="30" height="30" alt="Sublime's custom image">](https://twitter.com/KhonaMikail)](https://twitter.com/KhonaMikail)
 
 
 
