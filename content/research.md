@@ -1,3 +1,7 @@
+## Research interests
+I am interested in how biology builds powerful structured priors in neural circuits in the brain and how we can best understand the mechanisms that underlie them. Often, these priors take the shape of simple bottom-up processes & rules and ideas inspired from physics come of use. I am also interested in how similar structures can be incorporated into artificial neural networks. I believe this will speed up learning and improve generalization, bringing ANNs closer to human-like intelligence.
+
+
 ## Publications
 
 ### <a href = 'https://www.biorxiv.org/content/10.1101/2021.10.28.466284v1'> Spontaneous emergence of topologically robust grid cell modules: A multiscale instability theory </a>
