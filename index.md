@@ -9,6 +9,8 @@ You can have a look at my research and publications using the links on the left.
 
 You can reach me at: mikail@mit.edu
 
+<img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/twitter.png?raw=true" width="500" height="300" alt="Sublime's custom image"> 
+
 [![Twitter](https://twitter.com/KhonaMikail)](https://twitter.com/KhonaMikail)
 
 
