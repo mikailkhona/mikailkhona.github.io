@@ -1,5 +1,5 @@
 # Mikail Khona
-Physics PhD student, MIT
+Physics PhD candidate, MIT
 
 Hi, welcome to my webpage!
 
