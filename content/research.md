@@ -14,7 +14,7 @@ Modular structures in the brain play a central role in compositionality and inte
 
 ### <a href = 'https://papers.nips.cc/paper/2020/file/30f0641c041f03d94e95a76b9d8bd58f-Paper.pdf'> Reverse-engineering recurrent neural network solutions to a hierarchical inference task for mice </a>
 
-### <a> Attractor and integrator networks in neuroscience </a> 
+### <a href = 'https://arxiv.org/pdf/2112.03978.pdf'> Attractor and integrator networks in neuroscience </a> 
 
 ## Ongoing projects
 <img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/content/visualcortexgrowth/visual_cortex_Exp.pdf?raw=true" width="500" height="300" alt="Sublime's custom image"> 
