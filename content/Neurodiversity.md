@@ -2,7 +2,7 @@
 
 Here I have a collection of webpages, articles and resources for people to better understand what it means to be neurodivergent. Also listed are various communities working to serve the neurodivergent community. 
 
-If you have heard of any such community related to academia (especially neuroscience) or are interested in creating one (especially at MIT/ the Boston area), reach out!
+If you have heard of any such community in to academia (especially neuroscience) or are interested in creating one (especially at MIT/ the Boston area), reach out!
 
 <a href = 'https://autisticuk.org/neurodiversity/'> What is neurodiversity? </a>
 
