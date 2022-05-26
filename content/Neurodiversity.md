@@ -15,4 +15,4 @@ From Pete Wharmby: <a href = 'https://www.youtube.com/watch?v=OD-hvTVwJZQ' >4 ke
 <li>Executive Dysfunction
  </ol>
 
-<a href = ' https://autcollab.org/community/neurodiventures/'> NeurodiVentures </a>
+<a href = 'https://autcollab.org/community/neurodiventures/'> NeurodiVentures </a>
