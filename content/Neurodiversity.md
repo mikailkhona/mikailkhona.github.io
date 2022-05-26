@@ -16,3 +16,5 @@ From Pete Wharmby: <a href = 'https://www.youtube.com/watch?v=OD-hvTVwJZQ' >4 ke
  </ol>
 
 <a href = 'https://autcollab.org/community/neurodiventures/'> NeurodiVentures </a>
+
+<a href = 'https://autcollab.org/2020/04/30/autism-the-cultural-immune-system-of-human-societies/'> Autistic people – The cultural immune system of human societies </a>
