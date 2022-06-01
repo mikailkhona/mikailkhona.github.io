@@ -15,7 +15,7 @@ From Pete Wharmby: <a href = 'https://www.youtube.com/watch?v=OD-hvTVwJZQ' >4 ke
 <li>Sensory Sensitivity
 <li>Monotropism
 <li>Executive Dysfunction
- </ol>
+
 
 <a href = 'https://autcollab.org/community/neurodiventures/'> NeurodiVentures </a>
 
