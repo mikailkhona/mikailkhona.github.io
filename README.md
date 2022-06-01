@@ -1,4 +1,4 @@
-# Mikail Khona
+# Computational NeuroDevelopment
 Physics PhD student, MIT
 
 I do research in computational and theoretical systems neuroscience. I am primarily advised by Ila Fiete (fietelab.mit.edu)
