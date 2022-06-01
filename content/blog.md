@@ -10,3 +10,5 @@ Here is a curated collection of blogs and posts that have stuck with me
 #### General 
 
 <a href = 'https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f'> How do Video Games Stay in Sync? An Intro to the Fascinating Networking of Real Time Games. </a>
+
+<a href = 'https://johnhw.github.io/umap_primes/index.md.html'> Visualizing millions of prime numbers with UMAP</a>
