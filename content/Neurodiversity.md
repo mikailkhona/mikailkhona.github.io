@@ -6,7 +6,7 @@ If you have heard of any such community in to academia (especially neuroscience)
 
 <a href = 'https://autisticuk.org/neurodiversity/'> What is neurodiversity? </a>
 
-<a href='https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage'>Neurodiversity in the workplace</a>
+<a href='https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage'>Neurodiversity in the workplace as a competitive advantage</a>
 
 From Pete Wharmby: <a href = 'https://www.youtube.com/watch?v=OD-hvTVwJZQ' >4 key characteristics of being on the autism spectrum</a>
 
@@ -15,7 +15,6 @@ From Pete Wharmby: <a href = 'https://www.youtube.com/watch?v=OD-hvTVwJZQ' >4 ke
 <li>Sensory Sensitivity
 <li>Monotropism
 <li>Executive Dysfunction
-
 
 <a href = 'https://autcollab.org/community/neurodiventures/'> NeurodiVentures </a>
 
