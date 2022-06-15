@@ -5,7 +5,7 @@ Hi I am Mikail and welcome to my webpage! I am a PhD candidate in the department
 
 Outside of science, I am part of <a href = 'http://gymnastics.mit.edu/index.html'> MIT's artistic gymnastics club team </a> and enjoy playing the latest Pokemon games.
 
-You can have a look at my research and publications using the links on the left.
+You can read more about my research <a href ='https://mikailkhona.github.io/content/research.html'>here</a>.
 
 <div class="twoColumn">
       <img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/twitter.png?raw=true"            width="20" height="20" alt="Sublime's custom image">
