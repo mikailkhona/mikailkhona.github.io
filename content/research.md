@@ -16,5 +16,4 @@ Modular structures in the brain play a central role in compositionality and inte
 
 ### <a href = 'https://arxiv.org/pdf/2112.03978.pdf'> Attractor and integrator networks in neuroscience </a> 
 
-## Ongoing projects
-<img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/content/visualcortexgrowth/visual_cortex_Exp.pdf?raw=true" width="500" height="300" alt="Sublime's custom image"> 
+## Ongoing work
