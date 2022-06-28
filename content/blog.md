@@ -16,4 +16,4 @@ Here is a curated collection of blogs and posts that have stuck with me
 
 <a href = 'https://johnhw.github.io/umap_primes/index.md.html'> Visualizing millions of prime numbers with UMAP</a>
 
-<a href = 'https://serc.carleton.edu/details/files/19075.html'> Damming a river </a>
+<a href = 'https://serc.carleton.edu/details/files/19075.html'> Non-monotonic dynamics of damming a river </a>
