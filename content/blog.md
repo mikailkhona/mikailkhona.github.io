@@ -14,7 +14,7 @@ Here is a curated collection of blogs and posts that have stuck with me
 "A book I love is “Proofs and Refutations” (Imre Lakatos). A big point of that book is that people tend to think of definitions & categories as starting points, from which we derive theorems or scientific results about the world. But the process really works the other way round. Definitions and categories are things which emerge _after_ we’ve understood phenomena in the world, and as a consequence of that understanding. And so while it’s worth making very tentative definitions, it’s a mistake to do so too prematurely, or to hold too strongly to them. Those tentative definitions are, at best, scaffolding to help arrive at an understanding, which may eventually result in good definitions." - Michael Nielsen's Blog
 
 #### General
-<a href = ''> The Subtle Art of Not Giving a Fuck </a> - my summary
+<a href = 'https://github.com/mikailkhona/mikailkhona.github.io/blob/main/content/quotes%20that%20are%20nice'> The Subtle Art of Not Giving a Fuck </a> - my summary
 
 <a href = 'https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f'> How do Video Games Stay in Sync? An Intro to the Fascinating Networking of Real Time Games. </a>
 
