@@ -13,9 +13,7 @@ Here is a curated collection of blogs and posts that have stuck with me
 
 "A book I love is “Proofs and Refutations” (Imre Lakatos). A big point of that book is that people tend to think of definitions & categories as starting points, from which we derive theorems or scientific results about the world. But the process really works the other way round. Definitions and categories are things which emerge _after_ we’ve understood phenomena in the world, and as a consequence of that understanding. And so while it’s worth making very tentative definitions, it’s a mistake to do so too prematurely, or to hold too strongly to them. Those tentative definitions are, at best, scaffolding to help arrive at an understanding, which may eventually result in good definitions." - Michael Nielsen's Blog
 
-<a href = 'https://www.science.org/content/article/bats-and-dolphins-evolved-echolocation-same-way?platform=hootsuite'> Bats and Dolphins evolved echolocation in the same way </a>
-
-This is an amazing example of evolution acting on the genome of two vastly different species, with different ecological niches but arriving at the same solution at the genetic level. 
+<a href = 'https://www.science.org/content/article/bats-and-dolphins-evolved-echolocation-same-way?platform=hootsuite'> Bats and Dolphins evolved echolocation in the same way </a> - This is an amazing example of evolution acting on the genome of two vastly different species, with different ecological niches but arriving at the same solution at the genetic level. 
 
 #### General
 <a href = 'https://github.com/mikailkhona/mikailkhona.github.io/blob/main/content/quotes%20that%20are%20nice'> The Subtle Art of Not Giving a Fuck </a> - my takeaways
