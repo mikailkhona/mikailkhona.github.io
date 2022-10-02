@@ -18,7 +18,7 @@ Here is a curated collection of blogs and posts that have stuck with me
 This is an amazing example of evolution acting on the genome of two vastly different species, with different ecological niches but arriving at the same solution at the genetic level. 
 
 #### General
-<a href = 'https://github.com/mikailkhona/mikailkhona.github.io/blob/main/content/quotes%20that%20are%20nice'> The Subtle Art of Not Giving a Fuck </a> - my summary
+<a href = 'https://github.com/mikailkhona/mikailkhona.github.io/blob/main/content/quotes%20that%20are%20nice'> The Subtle Art of Not Giving a Fuck </a> - my takeaways
 
 <a href = 'https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f'> How do Video Games Stay in Sync? An Intro to the Fascinating Networking of Real Time Games. </a>
 
