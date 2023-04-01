@@ -1,4 +1,7 @@
 ## Research
+
+I was first introduced to non-linear dynamics and biophysics as a sophomore undergraduate at IIT Bombay in a course taught by <a href = 'https://www.phy.iitb.ac.in/en/employee-profile/amitabha-nandi'>Amitabha Nandi </a> and meandered around in the fields of biophysics and statistical physics before converging onto my current research interests with <a href = 'https://fietelab.mit.edu/'>Ila Fiete</a>.
+
 ### What is Computational NeuroDevelopment?
 When an organism is born, its brain is already capable of complex computations despite not having any exposure to the real world. Biological brains can learn orders of magnitude faster and with much less experience than our best models. How does this happen? These are the questions that I like to think about.
 
@@ -7,7 +10,7 @@ I am interested in how biology builds powerful structured priors in neural circu
 I am also interested in how similar structures can be incorporated into artificial neural networks. I believe this will speed up learning and improve generalization, bringing ANNs closer to human-like intelligence and will help clarify the relationship between the two.
 
 ## Building theoretical understanding in large-scale deep networks
-I am also interested in understanding how large deep network models ("Foundation models") trained on extremely large amounts of data learn interesting representations in their latent spaces and what insights we can obtain by studying and reverse engineering them.
+I am also interested in understanding how large deep network models trained on extremely large amounts of data learn interesting representations, seeming capable of human-like behavior and what insights we can obtain by studying and reverse engineering them.
 
 ## Publications
 
