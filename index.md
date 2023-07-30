@@ -7,10 +7,10 @@ Outside of science, I am part of <a href = 'http://gymnastics.mit.edu/index.html
 
 You can read more about my research <a href ='https://mikailkhona.github.io/content/research.html'>here</a> and see my Google scholar page <a href ='https://scholar.google.com/citations?user=K5f0SYQAAAAJ&hl=en'> here </a>
 
-<div class="twoColumn">
-      <img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/twitter.png?raw=true"            width="20" height="20" alt="Sublime's custom image">
-       <a href='https://twitter.com/KhonaMikail'>@KhonaMikail </a>
- </div>
+#<div class="twoColumn">
+      #<img src="https://github.com/mikailkhona/mikailkhona.github.io/blob/main/twitter.png?raw=true"            #width="20" height="20" alt="Sublime's custom image">
+       #<a href='https://twitter.com/KhonaMikail'>@KhonaMikail </a>
+# </div>
  
  email: mikail@mit.edu
 
