@@ -10,8 +10,11 @@ I received my undergraduate degree in engineering physics with a minor in pure m
 My Google scholar page <a href ='https://scholar.google.com/citations?user=K5f0SYQAAAAJ&hl=en'> here </a> is the most up-to-date.
  
  email: mikail@mit.edu
+
  
-What is physics? To me—growing up with a father and mother both of whom were physicists—physics was not subject matter. The atom, the troposphere, the nucleus, a piece of glass, the washing machine, my bicycle, the phonograph, a magnet—these were all incidentally the subject matter. The central idea was that the world is understandable, that you should be able to take anything apart, understand the relationships between its constituents, do experiments, and on that basis be able to develop a quantitative understanding of its behavior. Physics was a point of view that the world around us is, with effort, ingenuity, and adequate resources, understandable in a predictive and reasonably quantitative fashion. Being a physicist is a dedication to a quest for this kind of understanding. - John J. Hopfield
+What is physics? 
+
+To me—growing up with a father and mother both of whom were physicists—physics was not subject matter. The atom, the troposphere, the nucleus, a piece of glass, the washing machine, my bicycle, the phonograph, a magnet—these were all incidentally the subject matter. The central idea was that the world is understandable, that you should be able to take anything apart, understand the relationships between its constituents, do experiments, and on that basis be able to develop a quantitative understanding of its behavior. Physics was a point of view that the world around us is, with effort, ingenuity, and adequate resources, understandable in a predictive and reasonably quantitative fashion. Being a physicist is a dedication to a quest for this kind of understanding. - John J. Hopfield
 
 
 On kindness:
